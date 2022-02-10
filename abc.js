@@ -1,3 +1,4 @@
+const a=20;
 function abc(){
 var a=10;
 }
