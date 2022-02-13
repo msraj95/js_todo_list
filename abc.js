@@ -19,7 +19,6 @@ function f1(){
 counter = counter+1;
 }
 f1();
-
 (function(){
 var counter= =10;
 counter ++;
