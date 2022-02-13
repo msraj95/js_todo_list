@@ -22,6 +22,7 @@ f1();
 (function(){
 var counter= =10;
 counter ++;
+  
 })();
 function somefun(){
 counter = counter+1;
