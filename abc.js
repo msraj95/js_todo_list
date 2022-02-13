@@ -4,7 +4,6 @@ var a=10;
 }
 console.log(a);
 abc();
-
 function abc(){
   const c=30;
   let b=20;
