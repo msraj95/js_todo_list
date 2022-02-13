@@ -13,3 +13,9 @@ var a=10;
 }
 // console.log(a,b,c);
 abc();
+var counter= =10;
+counter ++;
+function f1(){
+counter = counter+1;
+}
+f1();
