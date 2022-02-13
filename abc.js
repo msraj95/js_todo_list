@@ -27,4 +27,5 @@ counter ++;
 function somefun(){
 counter = counter+1;
 }
+someFun();
 
