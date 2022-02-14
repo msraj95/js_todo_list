@@ -19,6 +19,7 @@ counter = counter+1;
 }
 
 f1();
+//closure using fucntion
 (function(){
 var counter= =10;
 counter ++;
