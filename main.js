@@ -5,3 +5,4 @@ func add(){
   return a+b;
 }
 add();
+add(1);
