@@ -1,4 +1,4 @@
-const a=10;
+var a=10;
 func add(){
   var a=20;
   let b=30;
@@ -6,3 +6,6 @@ func add(){
 }
 add();
 
+const a;
+a=10;
+console.log(a);
