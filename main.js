@@ -6,6 +6,7 @@ func add(){
 }
 add();
 
+
 const a;
 a=10;
 console.log(a);
