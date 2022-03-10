@@ -3,7 +3,6 @@ const a=20;
 function abc(){
 var a=10;
 }
-
 console.log(a);
 abc();
 function abc(){
