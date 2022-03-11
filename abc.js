@@ -11,7 +11,6 @@ function abc(){
 var a=10;
   console.log(a,b,c);
 }
-
 console.log(a,b,c);
 abc();
 var counter= =10;
