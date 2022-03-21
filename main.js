@@ -5,7 +5,6 @@ func add(){
   return a+b;
 }
 add();
-
 const a;
 a=2;
 console.log(a);
