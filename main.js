@@ -4,7 +4,6 @@ func add(){
   let b=30;
   return a+b;
 }
-
 add();
 const a;
 a=2;
