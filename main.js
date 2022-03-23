@@ -23,4 +23,5 @@ var participantsField = document.getElementById("Participentfieldwrap"),
     for(i=0; i<ContestantNum; i++){
       var clone = participantsField.cloneNode(true);
       form.appendChild(clone);
+
     }
